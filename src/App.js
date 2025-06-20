@@ -17,7 +17,7 @@ const sampleProducts = [
   },
   {
     id: 3,
-    name: 'Bàn phím cơ AKKO 3068',
+    name: 'Bàn phím cơ AKKO 3068-sửa 1',
     description: 'Switch Gateron, Led RGB',
     price: 1290000,
     image: 'https://picsum.photos/seed/akko3068/200/150'
@@ -25,7 +25,7 @@ const sampleProducts = [
   {
     id: 4,
     name: 'Ổ cứng SSD Kingston 240GB',
-    description: 'Tốc độ đọc 500MB/s',
+    description: 'Tốc độ đọc 500MB/s- sửa 2',
     price: 650000,
     image: 'https://picsum.photos/seed/ssd240/200/150'
   },
@@ -33,7 +33,7 @@ const sampleProducts = [
     id: 5,
     name: 'Loa Bluetooth JBL GO 3',
     description: 'Chống nước IP67, pin 5h',
-    price: 890000,
+    price: 8900000,
     image: 'https://picsum.photos/seed/jblgo3/200/150'
   },
   {
